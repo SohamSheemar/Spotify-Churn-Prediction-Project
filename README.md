@@ -68,6 +68,16 @@ This project aims to predict user churn on Spotify using behavioral and engageme
    ```bash
    git clone https://github.com/yourusername/spotify-churn-prediction.git
    cd spotify-churn-prediction
+2. Install dependencies
+   pandas==1.5.3
+numpy==1.24.0
+scikit-learn==1.1.3
+matplotlib==3.6.3
+seaborn==0.11.2
+imbalanced-learn>=0.10.0
+jupyter
+3. Run the model
+   python spotify_churn_analysis.py
 
 📬 Suggestions for Retention
 Send re-engagement prompts to users with low engagement scores
