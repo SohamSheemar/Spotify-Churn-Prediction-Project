@@ -19,13 +19,21 @@ This project aims to predict user churn on Spotify using behavioral and engageme
 ## 📂 Repository Structure
 
 📦 spotify-churn-prediction/
+
 ├── spotify_churn_analysis.py # Final model training and evaluation
+
 ├── spotify_churn_analysis_cleaning.ipynb # Data cleaning and feature engineering
+
 ├── spotify_EDA.ipynb # EDA and visualizations
+
 ├── spotify_cleaned_with_engagement.csv # Final cleaned dataset
+
 ├── assets/ # Contains saved plots (ROC, feature importance, etc.)
+
 ├── Report.pdf # Final report (optional)
+
 ├── Slides.pptx # Presentation slide deck (optional)
+
 └── README.md # This file
 
 
